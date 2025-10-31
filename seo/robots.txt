@@ -1,5 +1,4 @@
-# robots.txt
-
+# robots.txt for NicksHomeReno
 User-agent: *
 Allow: /
 
